@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0da0DAa364354dc9707c24cD0a940E49E6293d56",
+  "SCAN_LINK": "https://etherscan.io/address/0x0da0daa364354dc9707c24cd0a940e49e6293d56",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Teacher Coin NFTs",
+  "SYMBOL": "TCHNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/teacher-coin-nfts",
+  "SHOW_BACKGROUND": true
+}
